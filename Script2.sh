@@ -5,6 +5,6 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
-echo "I am learning Git and github"
-echo "hiiiiii"
+echo "This is branch one"
+echo "Monika"
 
